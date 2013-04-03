@@ -17,7 +17,7 @@ Outro conceito importante tem a ver com opções. Em [XP][] fazemos investimento
 
 **Veja Também**
 
-[Keep Your Options Open: Extreme Programming and the Economics of Flexibility][k] <%= image_tag('/images/pdf-icon.jpg', :id => 'icone_pdf', :alt => 'Keep Your Options Open: Extreme Programming and the Economics of Flexibility está em formato PDF', :title => 'Keep Your Options Open: Extreme Programming and the Economics of Flexibility está em formato PDF') %>
+[Keep Your Options Open: Extreme Programming and the Economics of Flexibility][k]
 
 {% include author_vinicius.md %}
 
